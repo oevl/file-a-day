@@ -1,0 +1,1 @@
+Al visitar el URL se entrega un archivo de texto vacio con el nombre yyyy-mm-dd.txt
